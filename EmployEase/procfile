@@ -1,1 +1,1 @@
-web: gunicorn 'EmployEase.wsgi'
+web: gunicorn EmployEase.wsgi
