@@ -22,23 +22,33 @@ This is the backend repo. Visit the frontend repo [here](https://github.com/Vais
 - The frontend was hosted on [Vercel](https://vercel.com/) and the backend on [Railway](https://railway.app/).
 
 ## API
-- ADD employees:-           https://employease-backend-production.up.railway.app/api/employees/
-- update/delate employees:- https://employease-backend-production.up.railway.app/api/employees/< id >/
-- add department:-          https://employease-backend-production.up.railway.app/api/departments
-- update/add department:-   https://employease-backend-production.up.railway.app/api/departments/< id >/
+- [ADD employees](https://employease-backend-production.up.railway.app/api/employees/)
+- [Update/Delete Employees](https://employease-backend-production.up.railway.app/api/employees/) (Add id at the end)
+- [Add Departments](https://employease-backend-production.up.railway.app/api/departments)
+- [Update/Delete Departments](https://employease-backend-production.up.railway.app/api/departments/)(Add id at the end)
+
 
 ## Run Locally
 
-- clone the project
+Clone the project
 
-- go to project directory
+```bash
+  git clone https://github.com/Ijasiqbal/EmployEase-backend
+```
 
-- Activate virtual environment:-venv/scripts/activatete
-
-- go to directory containing manage.py
-
-- run:- python manage.py runsrver
+Go to the project directory
 
 
+Activate virtual environment
+
+```bash
+  venv/scripts/activatete
+```
+
+Run
+
+```bash
+  python manage.py runsrver
+```
 
 
