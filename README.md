@@ -21,6 +21,11 @@ This is the backend repo. Visit the frontend repo [here](https://github.com/Vais
 
 - The frontend was hosted on [Vercel](https://vercel.com/) and the backend on [Railway](https://railway.app/).
 
+## API
+- ADD employees:-           https://employease-backend-production.up.railway.app/api/employees/
+- update/delate employees:- https://employease-backend-production.up.railway.app/api/employees/< id >/
+- add department:-          https://employease-backend-production.up.railway.app/api/departments
+- update/add department:-   https://employease-backend-production.up.railway.app/api/departments/< id >/
 
 
 
