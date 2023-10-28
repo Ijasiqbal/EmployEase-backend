@@ -50,5 +50,11 @@ Run
 ```bash
   python manage.py runsrver
 ```
+## Team
+
+- [Ijas Iqbal](https://github.com/Ijasiqbal)
+- [Vaisakh R S](https://github.com/Vaisakh-RS)
+- [Irfan](https://github.com/Irfannnx)
+- [Don](https://github.com/don-k-jacob)
 
 
