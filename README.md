@@ -27,6 +27,18 @@ This is the backend repo. Visit the frontend repo [here](https://github.com/Vais
 - add department:-          https://employease-backend-production.up.railway.app/api/departments
 - update/add department:-   https://employease-backend-production.up.railway.app/api/departments/< id >/
 
+## Run Locally
+
+- clone the project
+
+- go to project directory
+
+- Activate virtual environment:-venv/scripts/activatete
+
+- go to directory containing manage.py
+
+- run:- python manage.py runsrver
+
 
 
 
